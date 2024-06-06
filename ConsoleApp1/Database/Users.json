@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Musa Omanyala",
+    "Email": "musa@gmail.com",
+    "ID": "42413646",
+    "Age": 22,
+    "Phone": "0790212606",
+    "Balance": 132725,
+    "Pin": "456123"
+  },
+  {
+    "Name": "Joseph Oparero",
+    "Email": "oparero@gmail.com",
+    "ID": "4241346",
+    "Age": 22,
+    "Phone": "0717371601",
+    "Balance": 20019,
+    "Pin": "123456"
+  },
+  {
+    "Name": "Webopt",
+    "Email": "webopt@gmail.com",
+    "ID": "4241786",
+    "Age": 21,
+    "Phone": "0734477245",
+    "Balance": 49718,
+    "Pin": "103645"
+  },
+  {
+    "Name": "Jacky Olives",
+    "Email": "olivesjack@gmail.com",
+    "ID": "423546789",
+    "Age": 24,
+    "Phone": "0716125507",
+    "Balance": 6000,
+    "Pin": "123456"
+  },
+  {
+    "Name": "Geoffrey Mwarusha",
+    "Email": "mwarusha@gmail.com",
+    "ID": "42413646",
+    "Age": 20,
+    "Phone": "0104982314",
+    "Balance": 12500,
+    "Pin": "123456"
+  },
+  {
+    "Name": "Hillary Ochieng",
+    "Email": "ochienghilary@gmail.com",
+    "ID": "45679067",
+    "Age": 34,
+    "Phone": "0756789012",
+    "Balance": 3263880,
+    "Pin": "456123"
+  }
+]
